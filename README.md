@@ -1,8 +1,7 @@
 # Ebay-Auto-Buyer
 Parses CSV and takes the data to automate Ebay entry fields
 
-I didn't add the csv to this repo because it contained sensitive information
-
+I didn't add the csv to this repo because it contained sensitive information.
 
 ***This project needs to be updated to work fully***
 
