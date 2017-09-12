@@ -4,9 +4,9 @@ Parses CSV and takes the data to automate Ebay entry fields
 I didn't add the csv to this repo because it contained sensitive information
 
 
-*** This project is needs to be updated to work fully ***
+***This project needs to be updated to work fully***
 
-#### Setup
+### Setup
 
 Install [Python v2.7](https://www.python.org/downloads/)
 
