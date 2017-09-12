@@ -67,7 +67,7 @@ for o in orders:
 	#Change country name FROM alpha 2 TO full name
 	t = list(pycountry.countries)
 	for country in t:
-		if(o[7] == country.alpha2):
+		if(o[7] == country.alpha_2):
 			o[7] = country.name
 
 	for ac in approvedCountries:
